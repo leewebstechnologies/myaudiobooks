@@ -14,7 +14,7 @@ export default function Home() {
                 <span className="text-white font-bold text-2xl">B</span>
               </div>
               <span className="text-2xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">
-                BookWise
+                MyAudioBooks
               </span>
             </Link>
             <div className="flex items-center space-x-6">
@@ -179,7 +179,7 @@ export default function Home() {
             <div className="w-10 h-10 bg-gradient-to-r from-indigo-600 to-purple-600 rounded-xl flex items-center justify-center">
               <span className="text-white font-bold text-xl">B</span>
             </div>
-            <span className="text-2xl font-bold text-white">BookWise</span>
+            <span className="text-2xl font-bold text-white">MyAudiBooks</span>
           </div>
           <p className="mb-8 text-lg">
             Learn from the world&apos;s best books in just 15 minutes.
